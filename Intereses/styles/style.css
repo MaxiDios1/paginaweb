@@ -1,0 +1,74 @@
+body{
+    background-color:rgb(209, 184, 151) ;
+}
+
+header{
+    font-family: 'Newsreader', serif;
+    text-align: center;
+    background-color: rgb(253, 242, 225);
+    padding: 1px;
+    margin-bottom: 5px;
+    margin-top: 10px;
+    color: rgb(214, 186, 150);
+    border-radius: 10px;
+}
+
+nav{
+    background-color: rgb(253, 242, 225);
+    font-family: 'Lora', serif;
+}
+nav a:hover{
+    background:rgb(250, 229, 204) ;
+    color: rgb(214, 186, 150);
+}
+
+main{
+    display: flex;
+    margin-top: 20px;
+    flex-wrap: wrap;
+    border-radius: 10px;
+}
+section{
+    font-size: 19px;
+    font-family: 'Lora', serif;
+    color: rgb(214, 186, 150);
+} section h2{
+    text-align: center;
+} .art1{
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 2%;
+}  .art2{
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+} .art3{
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.col-2{
+    margin-left: 485px;
+    margin-bottom: 2%;
+    border-radius: 10px;
+}
+.carousel-inner{
+    margin-left: 35%;
+} 
+.juego{
+    margin-left: 485px;
+    border-radius: 10px;
+}
+
+footer{
+    background-color: white;
+    text-align: center;
+    border-radius: 10px;
+    font-family: 'Lora', serif;
+    margin-top: 30px;
+    color: rgb(214, 186, 150);
+}
